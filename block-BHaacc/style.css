@@ -563,6 +563,208 @@ body {
     border-radius: 12px;
 }
 
+/* contactus section */
+
+.contact-us {
+    padding-bottom: 80px;
+    background: linear-gradient(to left, rgba(140,244,146,1), rgba(53,119,198,1));
+}
+.header-contact {
+    padding: 50px 0 24px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-contact h3 {
+    color: #f1f9f8;
+    margin-bottom: 6px;
+    font-size: 28px;
+    font-weight: 480;
+}
+.lil-box1 {
+    margin: 8px 0 14px 0;
+    width: 36px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lil-box-1-1 {
+    height: 8px;
+    width: 10px;
+    background-color: #d8d8d8;
+    margin-right:  4px;
+}
+.form-map {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 65%;
+}
+.name {
+    padding: 20px 0;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 48%;
+    color: #afafaf;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+}
+.email {
+    padding: 20px 0;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 48%;
+    color: #afafaf;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+}
+.phone {
+    padding: 20px 0;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 48%;
+    color: #afafaf;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+}
+.budget {
+    padding: 20px 0;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 48%;
+    color: #afafaf;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+}
+.req {
+    height: 100px;
+    padding: 20px 0;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 100%;
+    color: #afafaf;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+}
+.form-btn {
+    height: 40px;
+    width: 154px;
+    border-radius: 20px;
+    background-color: #cf3732;
+}
+.form-btn a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.map-section {
+    width: 26%;
+}
+.map-section iframe {
+    border-radius: 50%;
+    height: 312px;
+    width: 100%;
+}
+
+/* footer */
+.footer {
+    padding: 50px 0;
+    background:  linear-gradient(to left, rgba(0,0,0,1), rgba(64,64,64,1));
+}
+/* f-sec1 */
+
+.f-sec1 {
+    border-bottom: 2px solid rgba(191,191,191,0.2);
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.hydro-company {
+    width: 36%;
+}
+.hydro-company header {
+    color: #ffffff;
+    padding-bottom: 14px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.hydro-company p {
+    color: #bfbfbf;
+    line-height: 1.6;
+}
+.company {
+    width: 13%;
+}
+.company header {
+    color: #ffffff;
+    padding-bottom: 14px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.company p {
+    color: #bfbfbf;
+    line-height: 1.6;
+}
+.services {
+    width: 13%;
+}
+.services header {
+    color: #ffffff;
+    padding-bottom: 14px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.services p {
+    color: #bfbfbf;
+    line-height: 1.6;
+}
+.Find-us {
+    width: 25%;
+}
+.Find-us header {
+    color: #ffffff;
+    padding-bottom: 14px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.Find-us p {
+    color: #bfbfbf;
+    line-height: 1.6;
+}
+.f-sec2 {
+    padding-top: 36px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact-details {
+    margin-left: 18px;
+    color: #bfbfbf;
+    width: 66%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact-details small {
+    font-size: 16px;
+}
+.contact-details span small {
+    font-size: 16px;
+}
+.social-link {
+    color: #bfbfbf;
+    width: 28%;
+}
+.social-link a i {
+    padding-right: 20px;
+    color: #bfbfbf;
+}
 
 
 
